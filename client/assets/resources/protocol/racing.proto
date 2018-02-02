@@ -1,0 +1,43 @@
+package racing.racing;
+syntax="proto3";
+
+message s_racing_start_game {
+    string platformRoomId = 1;
+    string gameId = 2;
+    string channelId = 3;
+}
+
+message c_racing_start_game {
+    string ownerId = 1;
+    string opponentId = 2;
+}
+
+message s_racing_sync_data {
+    int32 distance = 1;
+    int32 x = 2;
+}
+
+message c_racing_sync_data {
+    int32 distance = 1;
+    int32 x = 2;
+}
+
+message s_racing_finish_game {
+}
+
+message c_racing_finish_game {
+    string winnerId = 1;
+    int32 time = 2;
+    string resultJson = 3;
+}
+
+message block {
+    int32 type = 1;
+    int32 x = 2;
+    int32 y = 3;
+    int32 speed = 4;
+}
+
+message c_racing_block_data {
+    repeated block blocks = 1;
+}

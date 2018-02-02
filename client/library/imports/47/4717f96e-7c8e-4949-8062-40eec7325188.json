@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluecar",
+    "texture": "92b10efb-648c-4d68-8582-4ff7040bb29e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      21
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trafficlight",
+    "texture": "e56a3830-7978-400b-967c-abc77fb22b45",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      413,
+      149
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      413,
+      149
+    ]
+  }
+}

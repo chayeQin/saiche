@@ -1,0 +1,18 @@
+package racing.user;
+syntax = "proto3";
+
+message oci_user {
+    int32 userid = 1;
+    string username = 2;
+    int32 jetton = 3;
+    int32 roomcard = 4;
+    int64 birthday = 5;
+}
+
+message c_user {
+    oci_user oci = 1;
+}
+
+message s_user_heartbeat {
+}
+

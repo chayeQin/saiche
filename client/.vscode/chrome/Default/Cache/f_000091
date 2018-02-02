@@ -1,0 +1,710 @@
+_CCSettings = {
+    "designWidth": 750,
+    "designHeight": 1334,
+    "groupList": [
+        "default"
+    ],
+    "collisionMatrix": [
+        [
+            true
+        ]
+    ],
+    "platform": "web-desktop",
+    "scripts": [
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/GameConfig.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/base/network.js"
+        },
+        {
+            "deps": {
+                "binding": 15
+            },
+            "file": "preview-scripts/assets/script/base/network2.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/base/util.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/game/block.js"
+        },
+        {
+            "deps": {
+                "block": 4
+            },
+            "file": "preview-scripts/assets/script/game/block1.js"
+        },
+        {
+            "deps": {
+                "block": 4
+            },
+            "file": "preview-scripts/assets/script/game/block2.js"
+        },
+        {
+            "deps": {
+                "block": 4
+            },
+            "file": "preview-scripts/assets/script/game/block3.js"
+        },
+        {
+            "deps": {
+                "block": 4
+            },
+            "file": "preview-scripts/assets/script/game/block4.js"
+        },
+        {
+            "deps": {
+                "block": 4
+            },
+            "file": "preview-scripts/assets/script/game/block5.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/game/car.js"
+        },
+        {
+            "deps": {
+                "init": 14
+            },
+            "file": "preview-scripts/assets/script/game/game.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/game/result.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/game/ui.js"
+        },
+        {
+            "deps": {
+                "GameConfig": 0,
+                "ui": 13,
+                "yysdk": 17,
+                "util": 3,
+                "network2": 2
+            },
+            "file": "preview-scripts/assets/script/init.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/module/binding.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/module/getWsUrl.js"
+        },
+        {
+            "deps": {},
+            "file": "preview-scripts/assets/script/module/yysdk.js"
+        }
+    ],
+    "rawAssets": {
+        "assets": {
+            "b6910eb0-0a62-4f70-a867-8df58eccf60b": [
+                "resources/animation/boom.anim",
+                "cc.AnimationClip"
+            ],
+            "daf7380b-1524-4ac0-9dc0-2c9c86b42b42": [
+                "resources/game/arrow",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ce91d101-0c3f-427a-99b6-5022528f8980": [
+                "resources/game/arrow.png",
+                "cc.Texture2D"
+            ],
+            "9699d703-02d2-4105-a838-7f1373fe34b1": [
+                "resources/game/bg",
+                "cc.SpriteFrame",
+                1
+            ],
+            "10fa4985-e697-44e9-9209-ecbf9575c25e": [
+                "resources/game/bg.jpg",
+                "cc.Texture2D"
+            ],
+            "09ee8411-2c6c-4662-bff3-efd47dd60add": [
+                "resources/game/block1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "62d5cf09-a80a-48ab-8fae-b99dd7a49442": [
+                "resources/game/block1.png",
+                "cc.Texture2D"
+            ],
+            "c9ffe875-ee30-4001-a9ac-285a620134ec": [
+                "resources/game/block2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "70224801-6e3b-47b5-a284-feb300bb03c2": [
+                "resources/game/block2.png",
+                "cc.Texture2D"
+            ],
+            "1c8ed5b5-109f-4ac5-9b7a-01d6da995957": [
+                "resources/game/block3",
+                "cc.SpriteFrame",
+                1
+            ],
+            "62f3a613-3966-4ae5-b3ec-c01d5bab7937": [
+                "resources/game/block3.png",
+                "cc.Texture2D"
+            ],
+            "e5a441a7-8cf4-4e0f-9508-359512d49654": [
+                "resources/game/block4",
+                "cc.SpriteFrame",
+                1
+            ],
+            "aaee8ca3-1366-4bf7-8b71-8d88f6318562": [
+                "resources/game/block4.png",
+                "cc.Texture2D"
+            ],
+            "88ef6071-faf8-42ca-ab17-b4999d069980": [
+                "resources/game/block5",
+                "cc.SpriteFrame",
+                1
+            ],
+            "6e13b359-38dd-4c60-a8c5-2bb5f8ea5630": [
+                "resources/game/block5.png",
+                "cc.Texture2D"
+            ],
+            "4717f96e-7c8e-4949-8062-40eec7325188": [
+                "resources/game/bluecar",
+                "cc.SpriteFrame",
+                1
+            ],
+            "92b10efb-648c-4d68-8582-4ff7040bb29e": [
+                "resources/game/bluecar.png",
+                "cc.Texture2D"
+            ],
+            "baeec1c6-4b09-4aa6-b6fe-8a25f95e5c8d": [
+                "resources/game/bomb",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7605bb04-0523-4063-9ef3-b20d31f8176b": [
+                "resources/game/bomb.png",
+                "cc.Texture2D"
+            ],
+            "7e2c301e-b43b-4c5b-bbb7-13929d1ddfaa": [
+                "resources/game/boom1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "98b25189-f22c-4b5e-ae61-aacb6053fff5": [
+                "resources/game/boom1.png",
+                "cc.Texture2D"
+            ],
+            "c3e0beca-55c4-4bc5-ad73-e97948da5432": [
+                "resources/game/boom2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "cca21e38-55a7-4c90-942e-6709017a68db": [
+                "resources/game/boom2.png",
+                "cc.Texture2D"
+            ],
+            "b31a952e-386c-49d7-b39f-b0625e6e3f2d": [
+                "resources/game/boom3",
+                "cc.SpriteFrame",
+                1
+            ],
+            "acb7de14-e5ce-4903-9fd2-0547f5e044d1": [
+                "resources/game/boom3.png",
+                "cc.Texture2D"
+            ],
+            "3bd3ec43-576d-455e-8896-3dcb95fefd68": [
+                "resources/game/boom4",
+                "cc.SpriteFrame",
+                1
+            ],
+            "de80e80b-6de3-4394-a472-2317661ee7d3": [
+                "resources/game/boom4.png",
+                "cc.Texture2D"
+            ],
+            "c801c877-8af3-41de-b0e7-5e6581889608": [
+                "resources/game/bottom",
+                "cc.SpriteFrame",
+                1
+            ],
+            "2ca89224-8851-44d5-b4fd-1028d2103730": [
+                "resources/game/bottom.png",
+                "cc.Texture2D"
+            ],
+            "675ae8c5-d6f3-4b57-8e96-a021d571f046": [
+                "resources/game/car1",
+                "cc.SpriteFrame",
+                1
+            ],
+            "321df7ce-82fa-47ff-ad34-c8ee58859c2c": [
+                "resources/game/car1.png",
+                "cc.Texture2D"
+            ],
+            "26572b21-ca39-492d-9bdf-bf6172658504": [
+                "resources/game/car1_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "4341e44c-c2e1-4043-9f74-547115be3b12": [
+                "resources/game/car1_2.png",
+                "cc.Texture2D"
+            ],
+            "c6ae3853-4aa1-48d4-9103-53e14bade59c": [
+                "resources/game/car1_3",
+                "cc.SpriteFrame",
+                1
+            ],
+            "3df7b4b7-456f-4691-ba69-820addf11060": [
+                "resources/game/car1_3.png",
+                "cc.Texture2D"
+            ],
+            "2e21b407-c3f4-417f-bb42-0eb32d1bcd37": [
+                "resources/game/car2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "8b28abb4-f726-4323-bae8-bdd3f2c1eb3f": [
+                "resources/game/car2.png",
+                "cc.Texture2D"
+            ],
+            "77d534ce-026c-4785-890d-c0527ed9bef1": [
+                "resources/game/car2_2",
+                "cc.SpriteFrame",
+                1
+            ],
+            "72555791-4481-47fd-9a2a-5ea0835ce102": [
+                "resources/game/car2_2.png",
+                "cc.Texture2D"
+            ],
+            "fcf79ede-0d3f-4b91-bf57-ab6921549f4b": [
+                "resources/game/car2_3",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ef2aede4-76e0-4c06-a155-0dbe2c54b463": [
+                "resources/game/car2_3.png",
+                "cc.Texture2D"
+            ],
+            "fd6d05f8-4c6a-4f04-9388-a02dcb184637": [
+                "resources/game/light_green",
+                "cc.SpriteFrame",
+                1
+            ],
+            "11a64cdc-5c08-43ce-8228-9f81c59e7134": [
+                "resources/game/light_green.png",
+                "cc.Texture2D"
+            ],
+            "0da11012-171c-49c8-b5ac-bc20a9841d2a": [
+                "resources/game/light_red",
+                "cc.SpriteFrame",
+                1
+            ],
+            "60b4080c-454d-4b1f-b158-22c1ccf1f384": [
+                "resources/game/light_red.png",
+                "cc.Texture2D"
+            ],
+            "b7efa3ce-5ff4-461d-823b-9cbb6cc7a06a": [
+                "resources/game/light_yellow",
+                "cc.SpriteFrame",
+                1
+            ],
+            "35158a5b-5af6-48fd-858e-a0e89c827a93": [
+                "resources/game/light_yellow.png",
+                "cc.Texture2D"
+            ],
+            "ce6869ec-f3ae-411a-a8d6-90cc9009d73a": [
+                "resources/game/line",
+                "cc.SpriteFrame",
+                1
+            ],
+            "fbc780d1-b509-4ac8-aac0-5119d2eafe58": [
+                "resources/game/line.jpg",
+                "cc.Texture2D"
+            ],
+            "c12e5bae-7078-466b-b39e-724df9f21a33": [
+                "resources/game/loading_a",
+                "cc.SpriteFrame",
+                1
+            ],
+            "89b2d7be-0b17-4af3-a462-a9c352a1c28c": [
+                "resources/game/loading_a.png",
+                "cc.Texture2D"
+            ],
+            "265f9f73-4a6b-48d9-b458-9bfced41cee2": [
+                "resources/game/loading_b",
+                "cc.SpriteFrame",
+                1
+            ],
+            "28d2dbf1-fa03-406a-959c-4c72e7f461b1": [
+                "resources/game/loading_b.png",
+                "cc.Texture2D"
+            ],
+            "35007b92-18aa-4854-a532-3d24c732c4eb": [
+                "resources/game/loading_bg",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7096fddf-0d9b-4cb9-ae85-5ee3ceab35c2": [
+                "resources/game/loading_bg.jpg",
+                "cc.Texture2D"
+            ],
+            "f81808a9-a282-476a-91a1-03c0a19cb8e4": [
+                "resources/game/loadingstring",
+                "cc.SpriteFrame",
+                1
+            ],
+            "ad6c04f9-a375-40fd-a7b7-6e3595afd28c": [
+                "resources/game/loadingstring.png",
+                "cc.Texture2D"
+            ],
+            "775f3002-a0bd-4bcd-8ee2-ee787af322cd": [
+                "resources/game/redcar",
+                "cc.SpriteFrame",
+                1
+            ],
+            "7c01e003-9f1f-46c0-972a-4264db69b043": [
+                "resources/game/redcar.png",
+                "cc.Texture2D"
+            ],
+            "1b469b07-d464-4277-89e3-2e791ded3266": [
+                "resources/game/result_lose",
+                "cc.SpriteFrame",
+                1
+            ],
+            "0700aed9-6151-4865-891d-cde650a49317": [
+                "resources/game/result_lose.png",
+                "cc.Texture2D"
+            ],
+            "b3026b43-7f13-48c0-b4c6-f37cfb66bf07": [
+                "resources/game/result_win",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e03a13dc-3cd7-4733-9e3e-0afd7baf63ed": [
+                "resources/game/result_win.png",
+                "cc.Texture2D"
+            ],
+            "f1af5ca3-f694-4f29-81d0-ed902dbf4fa4": [
+                "resources/game/speedup",
+                "cc.SpriteFrame",
+                1
+            ],
+            "930fad73-898d-433e-811f-4ea120b7972c": [
+                "resources/game/speedup.png",
+                "cc.Texture2D"
+            ],
+            "39fed025-7736-4c11-a011-26f74f207bca": [
+                "resources/game/speedup_progress_bg",
+                "cc.SpriteFrame",
+                1
+            ],
+            "922a8fa8-b0b8-48e5-bebb-ce621671f8c5": [
+                "resources/game/speedup_progress_bg.png",
+                "cc.Texture2D"
+            ],
+            "d9d0b693-7e96-4f09-9e72-9f227e16283f": [
+                "resources/game/speedup_progress_fg",
+                "cc.SpriteFrame",
+                1
+            ],
+            "fc4df0e6-b9ac-4b52-a11d-28496274c321": [
+                "resources/game/speedup_progress_fg.png",
+                "cc.Texture2D"
+            ],
+            "22d3a06d-c176-4352-969b-ccb1307c39ed": [
+                "resources/game/speedup_top",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e8251a80-c4a4-46fb-a2c7-112fcf8b4e15": [
+                "resources/game/speedup_top.png",
+                "cc.Texture2D"
+            ],
+            "12282f04-910c-4019-b317-7d789ddaaa20": [
+                "resources/game/time_Num.fnt",
+                "cc.BitmapFont"
+            ],
+            "34a701fd-7e17-44e2-9ac7-153cd3d2c8cc": [
+                "resources/game/time_Num_0",
+                "cc.SpriteFrame",
+                1
+            ],
+            "683b78b5-b64c-4214-89af-75ee5389170f": [
+                "resources/game/time_Num_0.png",
+                "cc.Texture2D"
+            ],
+            "890dcb5c-da9c-40ce-87b1-4e75667339ae": [
+                "resources/game/tips",
+                "cc.SpriteFrame",
+                1
+            ],
+            "16a62e63-78cf-48ea-ba1f-7007cedc23fe": [
+                "resources/game/tips.png",
+                "cc.Texture2D"
+            ],
+            "6ef245b9-f0f4-4fc4-bcec-a49005b17270": [
+                "resources/game/tips_bg",
+                "cc.SpriteFrame",
+                1
+            ],
+            "274f7744-55fd-496b-bfd4-71d8bcc1b014": [
+                "resources/game/tips_bg.png",
+                "cc.Texture2D"
+            ],
+            "a8aaa851-82d5-4ca8-9deb-d8992ae17840": [
+                "resources/game/tips_text",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e0e92e1d-a590-46fe-8220-39cc82e633d9": [
+                "resources/game/tips_text.fnt",
+                "cc.BitmapFont"
+            ],
+            "98b88633-572d-442b-b664-b9d252c49d15": [
+                "resources/game/tips_text.png",
+                "cc.Texture2D"
+            ],
+            "56156eab-8663-4e1f-b691-845c11c76f8d": [
+                "resources/game/tipstring",
+                "cc.SpriteFrame",
+                1
+            ],
+            "0be4f9c1-6fad-456e-ab94-b2340bc559c4": [
+                "resources/game/tipstring.png",
+                "cc.Texture2D"
+            ],
+            "7b9dc7ee-54d6-4c9b-bda5-31c74aba3074": [
+                "resources/game/track",
+                "cc.SpriteFrame",
+                1
+            ],
+            "cb9835c7-9af7-4f9e-86ba-93e74bcf9de3": [
+                "resources/game/track.png",
+                "cc.Texture2D"
+            ],
+            "37baede5-fd29-4976-9b68-d76dd444baae": [
+                "resources/game/trafficlight",
+                "cc.SpriteFrame",
+                1
+            ],
+            "e56a3830-7978-400b-967c-abc77fb22b45": [
+                "resources/game/trafficlight.png",
+                "cc.Texture2D"
+            ],
+            "d5ffed54-cdd8-40fd-9815-a71f931e7cb9": [
+                "resources/game/transparent",
+                "cc.SpriteFrame",
+                1
+            ],
+            "85a2f4c2-0aa0-42d7-a9aa-0708ccbf3777": [
+                "resources/game/transparent.png",
+                "cc.Texture2D"
+            ],
+            "a042d66e-7b7f-4eab-bca1-77c65492153e": [
+                "resources/game/wheel",
+                "cc.SpriteFrame",
+                1
+            ],
+            "8bf63481-9d25-4a7c-9452-8742a52fd969": [
+                "resources/game/wheel.png",
+                "cc.Texture2D"
+            ],
+            "5a89e729-a06e-4892-ae65-24c4051d92c2": [
+                "resources/prefab/block1.prefab",
+                "cc.Prefab"
+            ],
+            "6076449e-4da6-4f31-84cd-96aad534997e": [
+                "resources/prefab/block2.prefab",
+                "cc.Prefab"
+            ],
+            "91e4ad36-bb94-4c8b-bc4a-b73040234ebb": [
+                "resources/prefab/block3.prefab",
+                "cc.Prefab"
+            ],
+            "7cbb94c4-3139-418f-b27a-39d94227b4b7": [
+                "resources/prefab/block4.prefab",
+                "cc.Prefab"
+            ],
+            "00ed6934-bb2a-4ace-9428-944ac2be281f": [
+                "resources/prefab/block5.prefab",
+                "cc.Prefab"
+            ],
+            "fb4e3f07-10cf-4217-993a-a56625aa7dd8": [
+                "resources/prefab/car.prefab",
+                "cc.Prefab"
+            ],
+            "615a5de7-92c2-4ae8-8e7f-15dbf06bc34e": [
+                "resources/prefab/result_lose.prefab",
+                "cc.Prefab"
+            ],
+            "3b791964-2331-4303-8eff-7c77b837a0a3": [
+                "resources/prefab/result_win.prefab",
+                "cc.Prefab"
+            ],
+            "859967b4-a1ae-4273-b235-f12763951224": [
+                "resources/protocol/login.proto",
+                "cc.RawAsset"
+            ],
+            "7bda0892-5091-4d30-8ada-d7c246f5bc59": [
+                "resources/protocol/racing.proto",
+                "cc.RawAsset"
+            ],
+            "d1bcbd99-ba9e-45ce-a8f0-55afaab6dd85": [
+                "resources/protocol/user.proto",
+                "cc.RawAsset"
+            ],
+            "b7a11615-2028-482d-bfd4-ecddfa3f0df6": [
+                "resources/sound/bgm.mp3",
+                "cc.AudioClip"
+            ],
+            "b63dda9b-e955-45c5-a05b-5d4b371ce80b": [
+                "resources/sound/bomb.mp3",
+                "cc.AudioClip"
+            ],
+            "456501f8-3490-442d-a963-a6287da0f314": [
+                "resources/sound/collision.mp3",
+                "cc.AudioClip"
+            ],
+            "0f3a8d74-e380-4a9c-a929-05781b465438": [
+                "resources/sound/countdown.mp3",
+                "cc.AudioClip"
+            ],
+            "765bc399-4867-4da9-9e46-6ac0364d7f0a": [
+                "resources/sound/dahua.wav",
+                "cc.AudioClip"
+            ],
+            "6c9f6498-2033-4395-91f5-13625e41583d": [
+                "resources/sound/daoshu.wav",
+                "cc.AudioClip"
+            ],
+            "38e501fa-b11f-4f83-99c0-55f09cacdb05": [
+                "resources/sound/jingche.wav",
+                "cc.AudioClip"
+            ],
+            "acdd95da-9b74-4b0c-b538-ff75b7f3fb2f": [
+                "resources/sound/lose.mp3",
+                "cc.AudioClip"
+            ],
+            "79c16af3-180f-48b9-bfe6-8c49a7cd262e": [
+                "resources/sound/qiche.wav",
+                "cc.AudioClip"
+            ],
+            "6bdb5dd5-127d-4769-8eef-ee6912732aa5": [
+                "resources/sound/run.wav",
+                "cc.AudioClip"
+            ],
+            "334af528-9683-4663-81dd-8e9e9c165851": [
+                "resources/sound/shache.wav",
+                "cc.AudioClip"
+            ],
+            "65b08af7-5718-4ceb-a391-5a94982e73a7": [
+                "resources/sound/win.mp3",
+                "cc.AudioClip"
+            ]
+        },
+        "internal": {
+            "71561142-4c83-4933-afca-cb7a17f67053": [
+                "image/default_btn_disabled.png",
+                "cc.Texture2D"
+            ],
+            "e851e89b-faa2-4484-bea6-5c01dd9f06e2": [
+                "image/default_btn_normal.png",
+                "cc.Texture2D"
+            ],
+            "b43ff3c2-02bb-4874-81f7-f2dea6970f18": [
+                "image/default_btn_pressed.png",
+                "cc.Texture2D"
+            ],
+            "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": [
+                "image/default_panel.png",
+                "cc.Texture2D"
+            ],
+            "cfef78f1-c8df-49b7-8ed0-4c953ace2621": [
+                "image/default_progressbar.png",
+                "cc.Texture2D"
+            ],
+            "99170b0b-d210-46f1-b213-7d9e3f23098a": [
+                "image/default_progressbar_bg.png",
+                "cc.Texture2D"
+            ],
+            "567dcd80-8bf4-4535-8a5a-313f1caf078a": [
+                "image/default_radio_button_off.png",
+                "cc.Texture2D"
+            ],
+            "9d60001f-b5f4-4726-a629-2659e3ded0b8": [
+                "image/default_radio_button_on.png",
+                "cc.Texture2D"
+            ],
+            "0291c134-b3da-4098-b7b5-e397edbe947f": [
+                "image/default_scrollbar.png",
+                "cc.Texture2D"
+            ],
+            "4bab67cb-18e6-4099-b840-355f0473f890": [
+                "image/default_scrollbar_bg.png",
+                "cc.Texture2D"
+            ],
+            "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": [
+                "image/default_scrollbar_vertical.png",
+                "cc.Texture2D"
+            ],
+            "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": [
+                "image/default_scrollbar_vertical_bg.png",
+                "cc.Texture2D"
+            ],
+            "6e056173-d285-473c-b206-40a7fff5386e": [
+                "image/default_sprite.png",
+                "cc.Texture2D"
+            ],
+            "0275e94c-56a7-410f-bd1a-fc7483f7d14a": [
+                "image/default_sprite_splash.png",
+                "cc.Texture2D"
+            ],
+            "73a0903d-d80e-4e3c-aa67-f999543c08f5": [
+                "image/default_toggle_checkmark.png",
+                "cc.Texture2D"
+            ],
+            "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": [
+                "image/default_toggle_disabled.png",
+                "cc.Texture2D"
+            ],
+            "d29077ba-1627-4a72-9579-7b56a235340c": [
+                "image/default_toggle_normal.png",
+                "cc.Texture2D"
+            ],
+            "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": [
+                "image/default_toggle_pressed.png",
+                "cc.Texture2D"
+            ],
+            "2be36297-9abb-4fee-8049-9ed5e271da8a": [
+                "misc/default_video.mp4",
+                "cc.RawAsset"
+            ],
+            "b8223619-7e38-47c4-841f-9160c232495a": [
+                "obsolete/atom.plist",
+                "cc.ParticleAsset"
+            ],
+            "b2687ac4-099e-403c-a192-ff477686f4f5": [
+                "particle/atom.plist",
+                "cc.ParticleAsset"
+            ]
+        }
+    },
+    "jsList": [
+        "assets/script/base/bytebuffer.js",
+        "assets/script/base/protobuf.js",
+        "assets/script/base/socket.io.js"
+    ],
+    "launchScene": "db://assets/scene/scene.fire",
+    "scenes": [
+        {
+            "url": "db://assets/scene/scene.fire",
+            "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+        }
+    ],
+    "debug": true
+};

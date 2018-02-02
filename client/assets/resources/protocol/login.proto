@@ -1,0 +1,50 @@
+package racing.login;
+syntax = "proto3";
+
+message c_example {
+    string stringValue = 1;
+    int32 int32Value = 2;
+    int64 int64Value = 3;
+    bool boolValue = 4;
+}
+
+message c_nested_example {
+    c_example example = 1;
+}
+
+message c_hello {
+    string hello = 1;
+}
+
+message s_login_version {
+    int32 version = 1;
+}
+
+message c_login_version {
+    bool versionOk = 1;
+}
+
+message s_login_sign_check {
+    string timestamp = 1;
+    string nonstr = 2;
+    string postData = 3;
+    string sign = 4;
+}
+
+message c_login_sign_check {
+    bool signOk = 1;
+}
+
+message s_login_player_create {
+    string name = 1;
+    string userId = 2;
+}
+
+message c_login_player_create {
+    string userId = 1;
+}
+
+message s_login_player_enter {
+    string userId = 1;
+}
+

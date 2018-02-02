@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "speedup_top",
+    "texture": "e8251a80-c4a4-46fb-a2c7-112fcf8b4e15",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      104
+    ]
+  }
+}

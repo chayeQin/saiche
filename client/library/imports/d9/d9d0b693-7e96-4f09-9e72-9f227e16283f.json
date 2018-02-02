@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "speedup_progress_fg",
+    "texture": "fc4df0e6-b9ac-4b52-a11d-28496274c321",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      50,
+      338
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      60,
+      342
+    ]
+  }
+}

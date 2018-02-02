@@ -1,0 +1,23 @@
+info face="腾祥嘉丽准粗圆简" size=40 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=2,0,0,2 spacing=4,4 outline=0
+common lineHeight=40 base=30 scaleW=640 scaleH=44 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="tips_text.png"
+chars count=19
+char id=48   x=465   y=0     width=21    height=30    xoffset=-1    yoffset=2     xadvance=21    page=0  chnl=15
+char id=49   x=565   y=0     width=14    height=30    xoffset=-1    yoffset=2     xadvance=17    page=0  chnl=15
+char id=50   x=490   y=0     width=21    height=30    xoffset=-1    yoffset=2     xadvance=21    page=0  chnl=15
+char id=51   x=413   y=0     width=22    height=30    xoffset=-1    yoffset=2     xadvance=21    page=0  chnl=15
+char id=52   x=386   y=0     width=23    height=30    xoffset=-2    yoffset=2     xadvance=21    page=0  chnl=15
+char id=53   x=583   y=0     width=21    height=29    xoffset=-1    yoffset=3     xadvance=21    page=0  chnl=15
+char id=54   x=439   y=0     width=22    height=30    xoffset=-1    yoffset=2     xadvance=21    page=0  chnl=15
+char id=55   x=608   y=0     width=21    height=29    xoffset=-1    yoffset=3     xadvance=22    page=0  chnl=15
+char id=56   x=515   y=0     width=21    height=30    xoffset=-1    yoffset=2     xadvance=21    page=0  chnl=15
+char id=57   x=540   y=0     width=21    height=30    xoffset=-1    yoffset=2     xadvance=21    page=0  chnl=15
+char id=20808 x=175   y=0     width=38    height=38    xoffset=-1    yoffset=-2    xadvance=38    page=0  chnl=15
+char id=21518 x=260   y=0     width=38    height=37    xoffset=-1    yoffset=-1    xadvance=38    page=0  chnl=15
+char id=24182 x=132   y=0     width=39    height=38    xoffset=-1    yoffset=-2    xadvance=38    page=0  chnl=15
+char id=31859 x=0     y=0     width=40    height=38    xoffset=-2    yoffset=-2    xadvance=38    page=0  chnl=15
+char id=33853 x=217   y=0     width=39    height=37    xoffset=-1    yoffset=-2    xadvance=38    page=0  chnl=15
+char id=39046 x=44    y=0     width=40    height=38    xoffset=-2    yoffset=-2    xadvance=38    page=0  chnl=15
+char id=39537 x=343   y=0     width=39    height=35    xoffset=-1    yoffset=0     xadvance=38    page=0  chnl=15
+char id=39550 x=302   y=0     width=37    height=37    xoffset=-1    yoffset=-2    xadvance=38    page=0  chnl=15
+char id=40784 x=88    y=0     width=40    height=38    xoffset=-2    yoffset=-2    xadvance=38    page=0  chnl=15

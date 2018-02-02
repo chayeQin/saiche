@@ -1,0 +1,479 @@
+2018-02-02T02:05:04.250Z - normal: Load ~/.CocosCreator/settings.json
+2018-02-02T02:05:04.256Z - normal: checking language setting...
+2018-02-02T02:05:04.257Z - normal: Language: zh
+2018-02-02T02:05:06.400Z - success: protocol editor-framework registered
+2018-02-02T02:05:06.401Z - success: protocol app registered
+2018-02-02T02:05:06.401Z - success: protocol theme registered
+2018-02-02T02:05:06.401Z - success: protocol packages registered
+2018-02-02T02:05:06.401Z - success: protocol unpack registerred
+2018-02-02T02:05:06.401Z - success: protocol disable-commonjs registerred
+2018-02-02T02:05:06.739Z - normal: connected!
+2018-02-02T02:05:06.741Z - normal: Check project E:\h5_game\dev\saiche\client
+2018-02-02T02:05:06.744Z - normal: Initializing Cocos2d
+2018-02-02T02:05:07.027Z - normal: Initializing Asset Database
+2018-02-02T02:05:07.074Z - success: protocol uuid registerred
+2018-02-02T02:05:07.074Z - success: protocol db registerred
+2018-02-02T02:05:07.074Z - success: protocol thumbnail registerred
+2018-02-02T02:05:07.075Z - normal: Loading editor/builtin packages
+2018-02-02T02:05:07.100Z - success: anysdk loaded
+2018-02-02T02:05:07.245Z - success: assets loaded
+2018-02-02T02:05:07.247Z - success: builder loaded
+2018-02-02T02:05:07.250Z - success: cocos-analytics loaded
+2018-02-02T02:05:07.253Z - success: console loaded
+2018-02-02T02:05:07.257Z - success: hierarchy loaded
+2018-02-02T02:05:07.259Z - success: inspector loaded
+2018-02-02T02:05:07.261Z - success: keystore loaded
+2018-02-02T02:05:07.263Z - success: node-library loaded
+2018-02-02T02:05:07.265Z - success: package-asset loaded
+2018-02-02T02:05:07.267Z - success: preferences loaded
+2018-02-02T02:05:07.269Z - success: project-exporter loaded
+2018-02-02T02:05:07.289Z - success: project-importer loaded
+2018-02-02T02:05:07.291Z - success: project-settings loaded
+2018-02-02T02:05:07.293Z - success: ui-kit loaded
+2018-02-02T02:05:07.295Z - success: ui-grid loaded
+2018-02-02T02:05:07.298Z - success: scene loaded
+2018-02-02T02:05:07.299Z - success: sprite-editor loaded
+2018-02-02T02:05:07.302Z - success: store loaded
+2018-02-02T02:05:07.307Z - success: timeline loaded
+2018-02-02T02:05:07.307Z - normal: Loading builtin packages
+2018-02-02T02:05:07.310Z - success: asset-db-debugger loaded
+2018-02-02T02:05:07.311Z - success: code-editor loaded
+2018-02-02T02:05:07.312Z - success: color-picker loaded
+2018-02-02T02:05:07.314Z - success: package-manager loaded
+2018-02-02T02:05:07.318Z - success: sdkbox loaded
+2018-02-02T02:05:07.323Z - success: tester loaded
+2018-02-02T02:05:07.326Z - success: ui-kit-preview-extra loaded
+2018-02-02T02:05:07.328Z - success: ui-kit-preview loaded
+2018-02-02T02:05:07.329Z - success: ui-tree loaded
+2018-02-02T02:05:08.642Z - normal: Initializing project E:\h5_game\dev\saiche\client
+2018-02-02T02:05:08.646Z - normal: Loading packages
+2018-02-02T02:05:08.651Z - normal: Watching packages
+2018-02-02T02:05:08.665Z - normal: Run Application
+2018-02-02T02:05:09.646Z - success: preview server running at http://localhost:7456
+2018-02-02T02:05:15.812Z - normal: 1.7.0
+2018-02-02T02:05:16.494Z - normal: init->null
+2018-02-02T02:12:36.009Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\h5_game\\dev\\saiche\\client\\build",
+  "debug": false,
+  "dest": "E:\\h5_game\\dev\\saiche\\client\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "racing",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "xxteaKey": "6a1f4982-60fc-41",
+  "project": "E:\\h5_game\\dev\\saiche\\client",
+  "projectName": "racing",
+  "debugBuildWorker": false
+}
+2018-02-02T02:12:36.013Z - normal: Building E:\h5_game\dev\saiche\client
+2018-02-02T02:12:36.013Z - normal: Destination E:\h5_game\dev\saiche\client\build\web-mobile
+2018-02-02T02:12:36.422Z - normal: Delete E:\h5_game\dev\saiche\client\build\web-mobile\**\*
+2018-02-02T02:12:40.419Z - normal: Compiled project javascript file successfully
+2018-02-02T02:12:40.419Z - normal: Start building assets
+2018-02-02T02:12:40.419Z - normal: Start spawn build-worker
+2018-02-02T02:12:41.464Z - normal: Finish spawn build-worker
+2018-02-02T02:12:41.464Z - normal: Start init build-worker
+2018-02-02T02:12:44.202Z - normal: 1.7.0
+2018-02-02T02:12:44.387Z - normal: init->null
+2018-02-02T02:12:44.391Z - normal: Finish init build-worker
+2018-02-02T02:12:44.392Z - normal: Start build-assets in worker
+2018-02-02T02:12:45.323Z - normal: Finish build-assets in worker
+2018-02-02T02:12:45.330Z - normal: Finish building assets
+2018-02-02T02:12:45.377Z - normal: Start building raw assets
+2018-02-02T02:12:45.379Z - normal: Start building plugin scripts
+2018-02-02T02:12:48.960Z - normal: Finish building plugin scripts
+2018-02-02T02:12:49.151Z - normal: Finish building raw assets
+2018-02-02T02:12:49.357Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-02-02T02:12:49.382Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-02-02T02:12:49.738Z - normal: Built to "E:\h5_game\dev\saiche\client\build\web-mobile" successfully
+2018-02-02T02:20:18.712Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\h5_game\\dev\\saiche\\client\\build",
+  "debug": false,
+  "dest": "E:\\h5_game\\dev\\saiche\\client\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "racing",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "xxteaKey": "6a1f4982-60fc-41",
+  "project": "E:\\h5_game\\dev\\saiche\\client",
+  "projectName": "racing",
+  "debugBuildWorker": false
+}
+2018-02-02T02:20:18.715Z - normal: Building E:\h5_game\dev\saiche\client
+2018-02-02T02:20:18.715Z - normal: Destination E:\h5_game\dev\saiche\client\build\web-mobile
+2018-02-02T02:20:18.718Z - normal: Delete E:\h5_game\dev\saiche\client\build\web-mobile\**\*
+2018-02-02T02:20:23.188Z - normal: Compiled project javascript file successfully
+2018-02-02T02:20:23.189Z - normal: Start building assets
+2018-02-02T02:20:23.189Z - normal: Start spawn build-worker
+2018-02-02T02:20:24.225Z - normal: Finish spawn build-worker
+2018-02-02T02:20:24.225Z - normal: Start init build-worker
+2018-02-02T02:20:27.091Z - normal: 1.7.0
+2018-02-02T02:20:27.272Z - normal: init->null
+2018-02-02T02:20:27.278Z - normal: Finish init build-worker
+2018-02-02T02:20:27.279Z - normal: Start build-assets in worker
+2018-02-02T02:20:28.138Z - normal: Finish build-assets in worker
+2018-02-02T02:20:28.145Z - normal: Finish building assets
+2018-02-02T02:20:28.188Z - normal: Start building raw assets
+2018-02-02T02:20:28.189Z - normal: Start building plugin scripts
+2018-02-02T02:20:31.434Z - normal: Finish building plugin scripts
+2018-02-02T02:20:31.544Z - normal: Finish building raw assets
+2018-02-02T02:20:31.767Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-02-02T02:20:31.798Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-02-02T02:20:32.172Z - normal: Built to "E:\h5_game\dev\saiche\client\build\web-mobile" successfully
+2018-02-02T02:23:59.416Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\h5_game\\dev\\saiche\\client\\build",
+  "debug": false,
+  "dest": "E:\\h5_game\\dev\\saiche\\client\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "racing",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "xxteaKey": "6a1f4982-60fc-41",
+  "project": "E:\\h5_game\\dev\\saiche\\client",
+  "projectName": "racing",
+  "debugBuildWorker": false
+}
+2018-02-02T02:23:59.419Z - normal: Building E:\h5_game\dev\saiche\client
+2018-02-02T02:23:59.420Z - normal: Destination E:\h5_game\dev\saiche\client\build\web-mobile
+2018-02-02T02:23:59.423Z - normal: Delete E:\h5_game\dev\saiche\client\build\web-mobile\**\*
+2018-02-02T02:24:03.739Z - normal: Compiled project javascript file successfully
+2018-02-02T02:24:03.740Z - normal: Start building assets
+2018-02-02T02:24:03.740Z - normal: Start spawn build-worker
+2018-02-02T02:24:04.894Z - normal: Finish spawn build-worker
+2018-02-02T02:24:04.894Z - normal: Start init build-worker
+2018-02-02T02:24:07.816Z - normal: 1.7.0
+2018-02-02T02:24:07.998Z - normal: init->null
+2018-02-02T02:24:08.003Z - normal: Finish init build-worker
+2018-02-02T02:24:08.003Z - normal: Start build-assets in worker
+2018-02-02T02:24:08.900Z - normal: Finish build-assets in worker
+2018-02-02T02:24:08.907Z - normal: Finish building assets
+2018-02-02T02:24:08.951Z - normal: Start building raw assets
+2018-02-02T02:24:08.953Z - normal: Start building plugin scripts
+2018-02-02T02:24:12.413Z - normal: Finish building plugin scripts
+2018-02-02T02:24:12.561Z - normal: Finish building raw assets
+2018-02-02T02:24:12.769Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-02-02T02:24:12.775Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-02-02T02:24:13.189Z - normal: Built to "E:\h5_game\dev\saiche\client\build\web-mobile" successfully
+2018-02-02T02:27:07.782Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\h5_game\\dev\\saiche\\client\\build",
+  "debug": false,
+  "dest": "E:\\h5_game\\dev\\saiche\\client\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "racing",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "xxteaKey": "6a1f4982-60fc-41",
+  "project": "E:\\h5_game\\dev\\saiche\\client",
+  "projectName": "racing",
+  "debugBuildWorker": false
+}
+2018-02-02T02:27:07.785Z - normal: Building E:\h5_game\dev\saiche\client
+2018-02-02T02:27:07.785Z - normal: Destination E:\h5_game\dev\saiche\client\build\web-mobile
+2018-02-02T02:27:07.788Z - normal: Delete E:\h5_game\dev\saiche\client\build\web-mobile\**\*
+2018-02-02T02:27:13.100Z - normal: Compiled project javascript file successfully
+2018-02-02T02:27:13.101Z - normal: Start building assets
+2018-02-02T02:27:13.101Z - normal: Start spawn build-worker
+2018-02-02T02:27:15.187Z - normal: Finish spawn build-worker
+2018-02-02T02:27:15.188Z - normal: Start init build-worker
+2018-02-02T02:27:20.107Z - normal: 1.7.0
+2018-02-02T02:27:20.394Z - normal: init->null
+2018-02-02T02:27:20.402Z - normal: Finish init build-worker
+2018-02-02T02:27:20.402Z - normal: Start build-assets in worker
+2018-02-02T02:27:21.965Z - normal: Finish build-assets in worker
+2018-02-02T02:27:22.065Z - normal: Finish building assets
+2018-02-02T02:27:22.135Z - normal: Start building raw assets
+2018-02-02T02:27:22.136Z - normal: Start building plugin scripts
+2018-02-02T02:27:26.029Z - normal: Finish building plugin scripts
+2018-02-02T02:27:26.245Z - normal: Finish building raw assets
+2018-02-02T02:27:26.561Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-02-02T02:27:26.571Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-02-02T02:27:27.055Z - normal: Built to "E:\h5_game\dev\saiche\client\build\web-mobile" successfully
+2018-02-02T02:31:37.057Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\h5_game\\dev\\saiche\\client\\build",
+  "debug": false,
+  "dest": "E:\\h5_game\\dev\\saiche\\client\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "racing",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "xxteaKey": "6a1f4982-60fc-41",
+  "project": "E:\\h5_game\\dev\\saiche\\client",
+  "projectName": "racing",
+  "debugBuildWorker": false
+}
+2018-02-02T02:31:37.061Z - normal: Building E:\h5_game\dev\saiche\client
+2018-02-02T02:31:37.061Z - normal: Destination E:\h5_game\dev\saiche\client\build\web-mobile
+2018-02-02T02:31:37.064Z - normal: Delete E:\h5_game\dev\saiche\client\build\web-mobile\**\*
+2018-02-02T02:31:42.256Z - normal: Compiled project javascript file successfully
+2018-02-02T02:31:42.257Z - normal: Start building assets
+2018-02-02T02:31:42.257Z - normal: Start spawn build-worker
+2018-02-02T02:31:43.888Z - normal: Finish spawn build-worker
+2018-02-02T02:31:43.888Z - normal: Start init build-worker
+2018-02-02T02:31:48.149Z - normal: 1.7.0
+2018-02-02T02:31:48.408Z - normal: init->null
+2018-02-02T02:31:48.415Z - normal: Finish init build-worker
+2018-02-02T02:31:48.415Z - normal: Start build-assets in worker
+2018-02-02T02:31:49.817Z - normal: Finish build-assets in worker
+2018-02-02T02:31:49.872Z - normal: Finish building assets
+2018-02-02T02:31:49.953Z - normal: Start building raw assets
+2018-02-02T02:31:49.955Z - normal: Start building plugin scripts
+2018-02-02T02:31:54.279Z - normal: Finish building plugin scripts
+2018-02-02T02:31:54.449Z - normal: Finish building raw assets
+2018-02-02T02:31:54.710Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-02-02T02:31:54.728Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-02-02T02:31:55.184Z - normal: Built to "E:\h5_game\dev\saiche\client\build\web-mobile" successfully
+2018-02-02T02:33:06.675Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "E:\\h5_game\\dev\\saiche\\client\\build",
+  "debug": false,
+  "dest": "E:\\h5_game\\dev\\saiche\\client\\build\\web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "racing",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "xxteaKey": "6a1f4982-60fc-41",
+  "project": "E:\\h5_game\\dev\\saiche\\client",
+  "projectName": "racing",
+  "debugBuildWorker": false
+}
+2018-02-02T02:33:06.678Z - normal: Building E:\h5_game\dev\saiche\client
+2018-02-02T02:33:06.678Z - normal: Destination E:\h5_game\dev\saiche\client\build\web-mobile
+2018-02-02T02:33:06.681Z - normal: Delete E:\h5_game\dev\saiche\client\build\web-mobile\**\*
+2018-02-02T02:33:11.103Z - normal: Compiled project javascript file successfully
+2018-02-02T02:33:11.103Z - normal: Start building assets
+2018-02-02T02:33:11.103Z - normal: Start spawn build-worker
+2018-02-02T02:33:12.493Z - normal: Finish spawn build-worker
+2018-02-02T02:33:12.494Z - normal: Start init build-worker
+2018-02-02T02:33:16.145Z - normal: 1.7.0
+2018-02-02T02:33:16.379Z - normal: init->null
+2018-02-02T02:33:16.387Z - normal: Finish init build-worker
+2018-02-02T02:33:16.388Z - normal: Start build-assets in worker
+2018-02-02T02:33:17.616Z - normal: Finish build-assets in worker
+2018-02-02T02:33:17.659Z - normal: Finish building assets
+2018-02-02T02:33:17.713Z - normal: Start building raw assets
+2018-02-02T02:33:17.713Z - normal: Start building plugin scripts
+2018-02-02T02:33:22.094Z - normal: Finish building plugin scripts
+2018-02-02T02:33:22.262Z - normal: Finish building raw assets
+2018-02-02T02:33:22.675Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-02-02T02:33:22.684Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-02-02T02:33:23.151Z - normal: Built to "E:\h5_game\dev\saiche\client\build\web-mobile" successfully
+2018-02-02T03:39:35.120Z - normal: init->null
+2018-02-02T03:39:52.983Z - normal: init->null
+2018-02-02T03:40:23.760Z - normal: init->null
+2018-02-02T03:40:43.606Z - normal: init->null
+2018-02-02T04:15:54.615Z - normal: init->null

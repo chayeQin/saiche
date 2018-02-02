@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redcar",
+    "texture": "7c01e003-9f1f-46c0-972a-4264db69b043",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      21
+    ]
+  }
+}
